@@ -6,6 +6,7 @@
   /* aspect-ratio: 1 / 1; /* Ensures both images share the same ratio */
   overflow: hidden;
   user-select: none;
+  container-type: inline-size; 
 }
 
 .slider-image {
