@@ -2,7 +2,7 @@
   position: relative;
   width: 100%;
   max-width: 800px; /* Adjust as needed */
-  /* (aspect-ratio: 16 / 9; /* Ensures both images share the same ratio */
+  aspect-ratio: 1 / 1; /* Ensures both images share the same ratio */
   overflow: hidden;
   user-select: none;
 }
